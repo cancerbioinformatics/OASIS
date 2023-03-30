@@ -3,12 +3,12 @@
 # **XXX - WSIs of normal breast tissue from multiple cohorts**
 This repo contains all documentation for the XXX dataset hosted on XXX
 
-Dataset size: XTB
-Contact name: Mario Parreno-Centeno
-Institution name: Kings's College London
-Institution URL: http://cancerbioinformatics.co.uk/
-Download at AWS: 
-Contact email: Mario Parreno-Centeno
+- Dataset size: XTB
+- Contact name: Mario Parreno-Centeno
+- Institution name: Kings's College London
+- Institution URL: http://cancerbioinformatics.co.uk/
+- Download at XXX: 
+- Contact email: Mario Parreno-Centeno
 
 
 ## **Description of WSIs**
