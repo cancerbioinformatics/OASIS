@@ -1,6 +1,6 @@
 
 
-# **XXX - WSIs of normal breast tissue from multiple cohorts**
+# **Whole slide images of normal breast Tissue from multiple cohorts**
 This repo contains all documentation for the XXX dataset hosted on XXX
 
 - Dataset size: XTB
