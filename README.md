@@ -20,9 +20,9 @@ This is a retrospective dataset of 376 H&E-stained whole slide image (WSI) of no
 
 
 - For all WSIs received from the above 4 institutions, 41 slides were excluded due to low image quality issue.
-- The **KHP** cohort consisted of 139 WSIs from 139 patients undergone reduction mammoplasty (RM)(with no known BRCA1/2 mutation). Clinical data including patient age is available for these patients.
+- The **KHP** cohort consisted of 139 WSIs from 139 patients undergone reduction mammoplasty (RM)(with no known BRCA1/2 mutation). Additional clinical data including patient age is available for these patients.
 - The **NKI** cohort consisted of 157 WSIs, including 70 WSIs from 38 patients undergone risk-reducing mastectomy (RRM), 27 WSIs from contralateral normal breast tissue from 27 breast cancer patients, 7 WSIs from ipsilateral normal breast tissue from 5 breast cancer patients, and 53 WSIs presenting peri-tumoral normal breast tissue from 52 breast cancer patients. Clinical data including BRCA mutation status, patient age, and cancer history are available for these patients.
-- The **BCI** cohort consisted of 29 WSIs, including 15 WSIs from 14 patients undergone RM (BRCA1/2 mutation not known), 14 WSIs from 14 patients undergone RRM (BRCA1/2 mutation carriers). Clinical data including BRCA mutation status, patient age, menstruation, pregnancy, HRT use, and cancer history are available for these patients.
+- The **BCI** cohort consisted of 29 WSIs, including 15 WSIs from 14 patients undergone RM (BRCA1/2 mutation not known), 14 WSIs from 14 patients undergone RRM (BRCA1/2 mutation carriers). Additional clinical data including patient age, menstruation, pregnancy, HRT use, and cancer history are available for these patients.
 - The **EPFL** cohort consisted of 10 WSIs from 10 patients undergone RM (BRCA1/2 mutation not known). Clinical data including patient age, menstruation, and HRT use are available for these patients.
 
 
