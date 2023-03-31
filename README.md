@@ -8,7 +8,7 @@ This repo contains all documentation for the XXX dataset hosted on XXX
 - Institution name: Kings's College London
 - Institution URL: http://cancerbioinformatics.co.uk/
 - Download at XXX: 
-- Contact email: Mario Parreno-Centeno
+- Contact email: mario.parreno-centeno@kcl.ac.uk
 
 
 ## **Description of WSIs**
