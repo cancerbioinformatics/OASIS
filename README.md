@@ -13,7 +13,7 @@ This repo contains all documentation for the XXX dataset hosted on XXX
 
 
 ## **Description of WSIs**
-This is a retrospective dataset of XXX H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from 4 institutions, namely **the King’s Health Partners Cancer Biobank (KHP)**, **the Barts Cancer Institute (BCI)**, **the Netherlands Cancer Institute (NKI)**, **the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL)**. In the paper, we also analysed 428 WSIs from the public **Susan G. Komen Tissue Bank (SGK)**.
+This is a retrospective dataset of 376 H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from 4 institutions, namely **the King’s Health Partners Cancer Biobank (KHP)**, **the Netherlands Cancer Institute (NKI)**, **the Barts Cancer Institute (BCI)**, **the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL)**. In the paper, we also analysed 428 WSIs from the public **Susan G. Komen Tissue Bank (SGK)**.
 
 
 ![](cohorts.png)
