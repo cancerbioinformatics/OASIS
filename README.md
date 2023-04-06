@@ -1,7 +1,7 @@
 
 
-# **Whole slide images of normal breast tissue from multiple cohorts**
-This repo contains all documentation for the XXX dataset hosted on XXX
+# **OASIS** n**O**rmal bre**A**St t**IS**sue
+This repo contains all documentation about the **OASIS** dataset containing whole slide images of normal breast tissue from multiple cohorts hosted on XXX
 
 - Dataset size: XTB
 - Contact name: Mario Parreno-Centeno
