@@ -1,6 +1,6 @@
 
 
-# **OASIS**: n**O**rmal bre**A**St t**IS**sue Dataset
+![](oasis.png)# **OASIS**: n**O**rmal bre**A**St t**IS**sue Dataset
 This repo contains all documentation about the **OASIS** dataset containing whole slide images of normal breast tissue from multiple cohorts hosted on XXX
 
 - Dataset size: XTB
