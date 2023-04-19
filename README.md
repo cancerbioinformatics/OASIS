@@ -3,13 +3,12 @@
 <img src="https://github.com/cancerbioinformatics/OASIS/blob/main/oasis3.png" width=50% height=50%>
 
 # **OASIS**: n**O**rmal bre**A**St t**IS**sue Dataset
-This repo contains all documentation about the **OASIS** dataset containing whole slide images of normal breast tissue from multiple cohorts hosted on XXX
+This repo contains all documentation about the **OASIS** dataset containing whole slide images of normal breast tissue from multiple cohorts
 
-- Dataset size: XTB
+- Dataset size: 376 WSIs
 - Contact name: Mario Parreno-Centeno
 - Institution name: Kings's College London
 - Institution URL: http://cancerbioinformatics.co.uk/
-- Download at XXX: 
 - Contact email: mario.parreno-centeno@kcl.ac.uk
 
 
