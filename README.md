@@ -47,6 +47,7 @@ x_resolution=wsi.properties[openslide.PROPERTY_NAME_MPP_X]
 y_resolution=wsi.properties[openslide.PROPERTY_NAME_MPP_X]
 base_mag=wsi.properties[openslide.PROPERTY_NAME_OBJECTIVE_POWER]
 
+
 #Display thumbnail
 wsi_thumbnail = wsi.get_thumbnail((1000,1000))
 wsi_thumbnail=np.array(wsi_thumbnail)
