@@ -54,7 +54,7 @@ plt.imshow(wsi_thumbnail)
 plt.axis('off')
 ```
 
-![](wsi.png)
+<img src="https://github.com/cancerbioinformatics/OASIS/blob/main/wsi.png", width=50%, height=50%>
 
 
 ## Credits
