@@ -14,13 +14,10 @@ This repo contains all documentation about the **OASIS** dataset containing whol
 
 
 ## **Description of WSIs**
-This is a retrospective dataset of 1489 H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from 4 institutions, namely **the King’s Health Partners Cancer Biobank (KHP)**, **the Netherlands Cancer Institute (NKI)**, **the Barts Cancer Institute (BCI)**, **the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL)**. In the paper, we also have access to WSIs from the public **Susan G. Komen Tissue Bank (SGK)**.
+This is a retrospective dataset of 1489 H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from 4 institutions, namely **the King’s Health Partners Cancer Biobank (KHP)**, **the Netherlands Cancer Institute (NKI)**, **the Barts Cancer Institute (BCI)**, **the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL)**. In the paper, we also have access to WSIs from the public **Susan G. Komen Tissue Bank (SGK)**. The WSIs were derived from:
 
+![](wsi.png)
 
-![](cohorts.png)
-
-
-The repository has WSIs from:
 - Normal breast tissue of healthy individuals **without** known germline or VUS BRCA1/2 changes (n:1k)
 - Normal breast tissue of healthy individuals **with** known germline or VUS BRCA1/2 changes (n:151)
 - **Contralateral** normal breast tissue of breast cancer patient **with** known germline or VUS BRCA1/2 changes (n:128)
