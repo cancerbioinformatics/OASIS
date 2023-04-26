@@ -11,7 +11,7 @@
 
 
 
-The **nOrmal breASt tISsue Dataset (OASIS)** repository is a retrospectively collected dataset of 1,489 H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from following institutions, namely **the King’s Health Partners Cancer Biobank (KHP)**, **the Netherlands Cancer Institute (NKI)**, **the Barts Cancer Institute (BCI)**, **the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL)**. We have access to WSIs from the publicly available Susan G. Komen Tissue Bank (SGK). The WSIs comprise normal breast tissue collected from:
+The **nOrmal breASt tISsue Dataset (OASIS)** repository is a retrospectively collected dataset of 1,489 H&E-stained whole slide image (WSI) of normal breast tissue. The images were collected from following institutions, namely **the King’s Health Partners Cancer Biobank (KHP)<https://www.khpbiobank.co.uk/>**, **the Netherlands Cancer Institute (NKI)**, **the Barts Cancer Institute (BCI)**, the Cathrin Brisken Lab at the École Polytechnique Fédérale de Lausanne (EPFL). We have access to WSIs from the publicly available Susan G. Komen Tissue Bank (SGK). The WSIs comprise normal breast tissue collected from:
 
 - Normal breast tissue of healthy individuals **without** known germline or VUS BRCA1/2 changes (n:1k)
 - Normal breast tissue of healthy individuals **with** known germline or VUS BRCA1/2 changes (n:151)
