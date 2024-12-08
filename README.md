@@ -7,7 +7,7 @@
 - Contact name: Siyuan Chen
 - Institution name: Kings's College London
 - Institution URL: http://cancerbioinformatics.co.uk/
-- Contact email: mario.parreno-centeno@kcl.ac.uk
+- Contact email: k21066795@kcl.ac.uk
 
 
 
