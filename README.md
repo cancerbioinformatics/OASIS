@@ -20,7 +20,7 @@ The **nOrmal breASt tISsue Dataset (OASIS)** repository is a retrospectively col
 
 
 
-<img align="center" src="https://github.com/cancerbioinformatics/OASIS/blob/main/NBT_resources.png" width="300" height="600">
+<img align="center" src="https://github.com/cancerbioinformatics/OASIS/blob/main/NBT_resources.png" width="100%">
 
 
 
