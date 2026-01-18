@@ -8,7 +8,7 @@
 - Institution URL: http://cancerbioinformatics.co.uk/
 - Contact name: Anita Grigoriadis
 - Contact email: anita.grigoriadis@kcl.ac.uk
-Note: Whole slide images (WSIs) are available upon request and accessible through PharosAI
+- Whole slide images (WSIs) are available upon request and accessible through PharosAI
 
 
 
