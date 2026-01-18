@@ -4,10 +4,11 @@
 
 # **OASIS**: n**O**rmal bre**A**St t**IS**sue Dataset
 - Dataset size: 1489 WSIs
-- Contact name: Siyuan Chen
 - Institution name: Kings's College London
 - Institution URL: http://cancerbioinformatics.co.uk/
-- Contact email: k21066795@kcl.ac.uk
+- Contact name: Anita Grigoriadis
+- Contact email: anita.grigoriadis@kcl.ac.uk
+Note: Whole slide images (WSIs) are available upon request and accessible through PharosAI
 
 
 
